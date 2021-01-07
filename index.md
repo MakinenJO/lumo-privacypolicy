@@ -3,14 +3,14 @@
 Lapsapp Ky pitää palvelujensa käyttäjien yksityisyyttä erittäin tärkeänä ja noudattaa toiminnassaan Euroopan Unionin tietosuojalainsäädäntöä (GDPR) sekä hyviä tietosuojakäytäntöjä. 
 
 ## Yleistä
-Tämä tietosuojalauseke kuvaa kuinka Lapsapp Ky kerää ja käsittelee käyttäjätietoja Lumo-applikaation käyttäjiltä.
+Tämä tietosuojalauseke kuvaa kuinka Lapsapp Ky kerää ja käsittelee käyttäjätietoja Lumo Ystävä -applikaation käyttäjiltä.
 
 ## Emme kerää käyttäjiltä henkilökohtaisia tietoja
 Lumo kysyy käyttäjältä aluksi nimen tai nimimerkin, jolla käyttäjää kutsuu jatkossa. Tämän jälkeen emme kerää henkiläkohtaisia tietoja.
-Tarkastelemme ainoastaan  sitä, kuinka usein käyttäjät käyttävät Lumoa ja kuinka pitkään he jatkavat Lumon käyttöä.
+Tarkastelemme ainoastaan sitä, kuinka usein käyttäjät käyttävät Lumo Ystävää ja kuinka pitkään he jatkavat Lumo Ystävän käyttöä.
 
 ## Mainokset
-Lumossa ei ole mainoksia. 
+Lumo Ystävässä ei ole mainoksia. 
 
 ## Tietojen luovuttaminen kolmansille osapuolille
 Emme luovuta tietoja kolmansille osapuolille, emmekä linkitä käyttäjää kolmansien osapuolien sisältöön.
